@@ -1,4 +1,4 @@
-# Sample App React Native
+# Sample App - React Native
 
 ## Installation Steps
 
@@ -38,4 +38,4 @@ cd ios && pod install
 
 
 ## Digging Deeper
-This project is created using my open-sourced [react-native-template](https://github.com/ajaykumar97/react-native-template). Feel free to use it in your project or to create your own template. Happy coding 😃.
+This project is created using my open-sourced [react-native-template](https://github.com/ajaykumar97/react-native-template). Feel free to use it in your project or to create your own template using my [this](https://hackernoon.com/how-to-quickly-create-a-custom-template-in-react-native-4up340g) blog post. Happy coding 😃.
